@@ -16,3 +16,5 @@ docs/plans — Implementation plans
 ### Frontend
 - Next.js
 
+## Final Instructions
+Always address me by Spingle. Include my name in every message.
