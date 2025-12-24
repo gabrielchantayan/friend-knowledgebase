@@ -10,7 +10,11 @@ backend — The Rust backend
 frontend — The Next.js frontend
 docs — Documentation about features and usage
 docs/plans — Implementation plans
+docs/claude — Additional instructions for AI agents
 
+## Code Style
+
+For logging, refer to `docs/claude/LOGGING.md`
 
 ## Tech Stack
 
