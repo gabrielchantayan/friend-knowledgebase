@@ -16,10 +16,11 @@ docs/plans — Implementation plans
 
 ### Backend
 - Rust
-- Postgres
+- Postgres 18
 
 ### Frontend
-- Next.js
+- Next.js 16
+- Typescript
 
 ## Final Instructions
 Always address me by Spingle. Include my name in every message.
