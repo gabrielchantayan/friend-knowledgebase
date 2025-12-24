@@ -1,5 +1,10 @@
 This is the monorepo for Friend Knowledgebase (FKB).
 
+## Raison d'être
+FKB is a friend knowledgebase. It allows you to store information about your friends to aide
+in your memory. You can store things like birthdays, likes, dislikes, events you saw them,
+groups they're apart of, their relationships, and more.
+
 ## Project Structure
 backend — The Rust backend
 frontend — The Next.js frontend
